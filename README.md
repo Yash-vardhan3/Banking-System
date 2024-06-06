@@ -14,7 +14,7 @@ Bank Information: Display overall bank information including the number of custo
 Authentication: Users can authenticate with a username and password, with an optional two-factor authentication for added security.
 Parallelism: Deposit and withdrawal operations can be executed in parallel threads for improved performance.
 # Setup and Usage
-Clone the repository: git clone https://github.com/Yash-vardhan3/Banking_System.git
+Clone the repository: git clone https://github.com/Yash-vardhan3/Banking-System.git
 Navigate to the project directory: cd Banking_System
 Compile the source code: g++ -o Banking_System main.cpp
 Run the executable: ./Banking_System
