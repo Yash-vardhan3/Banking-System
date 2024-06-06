@@ -15,8 +15,8 @@ Authentication: Users can authenticate with a username and password, with an opt
 Parallelism: Deposit and withdrawal operations can be executed in parallel threads for improved performance.
 # Setup and Usage
 Clone the repository: git clone https://github.com/Yash-vardhan3/Banking-System.git
-Navigate to the project directory: cd Banking_System
-Compile the source code: g++ -o Banking_System main.cpp
+Navigate to the project directory: cd Banking-System
+Compile the source code: >g++ -o Banking_System Banking_System.cpp
 Run the executable: ./Banking_System
 # Usage
 Upon running the program, follow the on-screen instructions to perform various banking operations.
